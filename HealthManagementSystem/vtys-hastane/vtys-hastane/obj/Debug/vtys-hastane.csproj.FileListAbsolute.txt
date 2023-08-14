@@ -1,0 +1,120 @@
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\vtys-hastane.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\vtys-hastane.exe
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\vtys-hastane.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.exe
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.pdb
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Buffers.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Memory.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Channels.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.ValueTuple.dll
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.Json.NET.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Buffers.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Memory.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Channels.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\bin\Debug\System.ValueTuple.xml
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.CopyComplete
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmDoktorAnaEkran.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmDoktorGiris.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmMuayeneEkle.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmSecim.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmPersonelGiris.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmPersonelAnaEkran.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmHastaEkle.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmHastalarıListele.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmHastaGuncelle.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmMuayeneKayıtDefteri.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmReceteYaz.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmReceteListeleme.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmİlacRapor.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmRaporHasta.resources
+C:\Users\dilar\OneDrive\Masaüstü\2.SINIF\Nesneye Yönelik Programlama LAB\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmİlaçEkle.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\vtys-hastane.exe.config
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\vtys-hastane.exe
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\vtys-hastane.pdb
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.Json.NET.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Buffers.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Collections.Immutable.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Memory.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Json.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Channels.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.ValueTuple.dll
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\Npgsql.Json.NET.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Buffers.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Collections.Immutable.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Memory.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Text.Json.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Channels.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\bin\Debug\System.ValueTuple.xml
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmDoktorAnaEkran.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmDoktorGiris.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmMuayeneEkle.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmMuayeneKayıtDefteri.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmRaporHasta.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmReceteListeleme.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmReceteYaz.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmSecim.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmPersonelGiris.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmPersonelAnaEkran.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmHastaEkle.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmHastalarıListele.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmHastaGuncelle.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmİlacRapor.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.frmİlaçEkle.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys_hastane.Properties.Resources.resources
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.GenerateResource.cache
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.csproj.CopyComplete
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.exe
+C:\Users\dilar\OneDrive\Masaüstü\210601060_Dilara_Ahretlikoğlu_VTYS_FinalProje\vtys-hastane\vtys-hastane\obj\Debug\vtys-hastane.pdb
